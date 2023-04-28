@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saurabh Kashyap
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Full Stack Devlopment
+- 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
