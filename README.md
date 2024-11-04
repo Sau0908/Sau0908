@@ -2,11 +2,6 @@
 
 ![Welcome to my GitHub Profile](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
----
-
-I'm a passionate **Full Stack Developer** with a strong enthusiasm for learning and creating. My goal is to continuously improve my skills and collaborate on open-source projects that can make a difference. I enjoy solving complex problems, exploring new technologies, and contributing to the tech community. Let's build something amazing together!
-
----
 
 ## 👨‍💻 About Me
 - 👀 I’m passionate about **coding** and always looking for ways to improve.
