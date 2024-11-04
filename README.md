@@ -32,6 +32,12 @@
 
 ---
 
+## 🎖️ My Achievements
+![Pair Extraordinaire](https://img.shields.io/badge/Pair%20Extraordinaire-0f6f6f?style=flat&logo=GitHub&logoColor=white)
+![Pull Shark](https://img.shields.io/badge/Pull%20Shark-0f6f6f?style=flat&logo=GitHub&logoColor=white)
+
+---
+
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Sau0908&theme=radical)
 
@@ -45,10 +51,8 @@
 
 ---
 
-
 ## 🧑‍💼 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/saurabh-kashyap-76a0a6222/)
-
 
 ## 🧭 Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=Sau0908&color=brightgreen)
