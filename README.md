@@ -2,11 +2,19 @@
 
 ![Welcome to my GitHub Profile](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
+---
+
+I'm a passionate **Full Stack Developer** with a strong enthusiasm for learning and creating. My goal is to continuously improve my skills and collaborate on open-source projects that can make a difference. I enjoy solving complex problems, exploring new technologies, and contributing to the tech community. Let's build something amazing together!
+
+---
+
 ## 👨‍💻 About Me
-- 👀 I’m passionate about **coding** and continuously improving my skills.
-- 🌱 I’m currently learning **Full Stack Development**.
-- 💞️ I’m looking to collaborate on **open-source projects** and **exciting development ideas**.
-- 📫 How to reach me: [kashyapsaurabh0908@gmail.com](mailto:kashyapsaurabh0908@gmail.com)
+- 👀 I’m passionate about **coding** and always looking for ways to improve.
+- 🌱 I’m currently learning **Full Stack Development** to strengthen my backend skills.
+- 💞️ I’m looking to collaborate on **open-source projects** and **innovative development ideas**.
+- 📫 You can reach me at [kashyapsaurabh0908@gmail.com](mailto:kashyapsaurabh0908@gmail.com).
+
+---
 
 ## 🛠️ Languages and Tools
 
@@ -30,8 +38,12 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 
+---
+
 ## 📈 GitHub Activity
 [![Saurabh's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sau0908&theme=rogue&bg_color=0d1117&color=79fe96&line=7cfc00&point=ffffff&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -39,24 +51,41 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sau0908&layout=compact&theme=radical&langs_count=8" />
 </div>
 
+---
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sau0908&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Sau0908&theme=radical)
+
+---
+
+## ⚡ Detailed Stats
+![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=Sau0908&theme=radical&show_icons=true)
+
+---
 
 ## 🧑‍💼 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/saurabh-kashyap-76a0a6222/)
 
+---
 
 ## 🚀 Fun Facts
 - 🌌 I love exploring new technologies and improving my coding skills.
 - 🎨 In my free time, I enjoy creating designs and exploring UI/UX concepts.
 
+---
+
 ## ✨ Quote of the Day
 > "The only way to do great work is to love what you do." - Steve Jobs
 
+---
+
 ## 🧭 Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=Sau0908&color=brightgreen)
-
----
 
 <!---
 Sau0908/Sau0908 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
