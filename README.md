@@ -1,8 +1,5 @@
 # Hi there 👋, I'm Saurabh Kashyap
 
-![Welcome to my GitHub Profile](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-
-
 ## 👨‍💻 About Me
 - 👀 I’m passionate about **coding** and always looking for ways to improve.
 - 🌱 I’m currently learning **Full Stack Development** to strengthen my backend skills.
@@ -35,8 +32,8 @@
 
 ---
 
-## 📈 GitHub Activity
-[![Saurabh's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sau0908&theme=rogue&bg_color=0d1117&color=79fe96&line=7cfc00&point=ffffff&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sau0908&theme=radical)
 
 ---
 
@@ -48,36 +45,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sau0908&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sau0908&theme=radical)
-
----
-
-## ⚡ Detailed Stats
-![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=Sau0908&theme=radical&show_icons=true)
-
----
 
 ## 🧑‍💼 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/saurabh-kashyap-76a0a6222/)
 
----
-
-## 🚀 Fun Facts
-- 🌌 I love exploring new technologies and improving my coding skills.
-- 🎨 In my free time, I enjoy creating designs and exploring UI/UX concepts.
-
----
-
-## ✨ Quote of the Day
-> "The only way to do great work is to love what you do." - Steve Jobs
-
----
 
 ## 🧭 Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=Sau0908&color=brightgreen)
