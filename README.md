@@ -1,5 +1,6 @@
 # Hi there 👋, I'm Saurabh Kashyap
 
+
 ## 👨‍💻 About Me
 - 👀 I’m passionate about **coding** and always looking for ways to improve.
 - 🌱 I’m currently learning **Full Stack Development** to strengthen my backend skills.
@@ -43,11 +44,6 @@
 
 ---
 
-## 🔥 Most Languages Used
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sau0908&show_icons=true&locale=en&layout=compact" alt="i-m-paras" /></p>
-
----
-
 ## 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sau0908&show_icons=true&theme=radical&count_private=true" />
@@ -56,8 +52,23 @@
 
 ---
 
+## 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sau0908&theme=radical)
+
+
+---
+
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sau0908&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+---
+
 ## 🧑‍💼 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/saurabh-kashyap-76a0a6222/)
+
+---
 
 ## 🧭 Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=Sau0908&color=brightgreen)
