@@ -43,8 +43,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Sau0908&theme=radical)
 
 
-![Sau0908's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sau0908&show_icons=true&theme=radical)
-
 ---
 
 ## 📊 GitHub Stats
