@@ -67,11 +67,18 @@ $ whoami
 
 ## Building
 
+**[Haulistic](https://vectorscalelabs.com/) — Vectorscale Labs**
+B2B e-commerce platform. Own backend features end-to-end — Node.js/Express/Prisma/PostgreSQL on the API side, React/Next.js on the merchant-facing frontend.
+- Serving **5,000+ MAU** at **99.9% uptime**
+- **Razorpay** payments with idempotent webhooks — 5,000+ transactions/month, zero data loss
+- **JWT + AWS Cognito** auth with role-based access control
+- AI-enabled onboarding pipeline (OpenAI API, embeddings, clustering) — cut onboarding time by **60%**
+
 **[JobFit AI](https://jobfit-ai-frontend.vercel.app/)** — resume-matching platform using the Gemini API to score resumes against job descriptions across 4 dimensions. Next.js + TypeScript frontend, JWT-secured API, PostgreSQL-backed history.
 
 <br/>
 
-## Numbers
+## How to Reach
 
 <p align="center">
   <a href="mailto:kashyapsaurabh0908@gmail.com">Email</a> ·
