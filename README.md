@@ -73,17 +73,6 @@ $ whoami
 
 ## Numbers
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sau0908&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide_title=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sau0908&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&hide_title=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sau0908&theme=tokyo-night&hide_border=true" />
-</div>
-
-<br/>
-
 <p align="center">
   <a href="mailto:kashyapsaurabh0908@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/in/saurabh-kashyap-76a0a6222/">LinkedIn</a> ·
